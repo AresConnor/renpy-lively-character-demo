@@ -1,0 +1,2 @@
+# renpy lively character demo
+ 
